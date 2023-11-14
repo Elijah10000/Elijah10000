@@ -2,11 +2,11 @@
 
 <h2>Frontend developer 💻</h2>
 
-🌍  I live in Dublin, Ireland
+🌍  I live in Ireland
 
-🧠  Currently learning TypeScript
+🧠  Currently learning TypeScript and React
 
-🎓  Recent college graduate 
+🎓  Recent college graduate
 
 <h2>Tech Stack</h2>
 
