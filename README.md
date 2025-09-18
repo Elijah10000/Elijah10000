@@ -4,9 +4,9 @@
 
 🌍  I live in Ireland
 
-🧠  Currently learning TypeScript and React
+🧠  Currently mastering TypeScript and React
 
-🎓  Recent college graduate
+🎓  2 years of professional experience
 
 <h2>Tech Stack</h2>
 
@@ -32,6 +32,22 @@
 
 <a href="#" class="logo">
   <img src="https://styled-components.com/logo.png" alt="Styled-Components Logo" width="50" height="50">
+</a>
+
+<a href="#" class="logo">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="50" height="50">
+</a>
+
+<a href="#" class="logo">
+  <img src="https://vitejs.dev/logo.svg" alt="Vite Logo" width="50" height="50">
+</a>
+
+<a href="#" class="logo">
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git Logo" width="50" height="50">
+</a>
+
+<a href="#" class="logo">
+  <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js Logo" width="50" height="50">
 </a>
 
 <h2>Socials</h2>
