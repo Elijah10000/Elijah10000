@@ -1,6 +1,6 @@
 <h2>Hi, 👋 my name is Elijah McNamara</h2>
 
-<h2>Frontend developer 💻</h2>
+<h2>Software Development Engineer 💻</h2>
 
 🌍  I live in Ireland
 
